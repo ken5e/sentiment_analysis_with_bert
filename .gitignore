@@ -1,0 +1,4 @@
+*.docx
+best_model_state.bin
+train.txt
+.ipynb_checkpoints/
